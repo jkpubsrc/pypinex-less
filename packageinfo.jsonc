@@ -1,0 +1,65 @@
+{
+	"magic": {
+		"magic": "packageinfo",
+		"version": 2,
+	},
+	"meta": {
+		"name": "pypinex_less",
+		"version": "0.2021.3.16",
+		"packageClass": "python-module",
+		"language": "python3",
+		"development_status": "beta",
+		"license": "proprietary",
+		"keywords": [
+			"..."
+		],
+		"description": "Support for 'less' files in PyPine.",
+		"authors": [
+			{
+				"name": "Jürgen Knauth",
+				"email": "pubsrc@binary-overflow.de"
+			}
+		],
+	},
+	"requirements": {
+		"python_packages": [
+			"lesscpy",
+			"pypine",
+		],
+		"python_packages_dev": [
+		],
+		"system_apt_packages": [
+		],
+	},
+	"source": {
+		"packages": [
+			"pypinex_less"
+		],
+		"extra_data_files": [
+			"pypinex_info.json",
+		],
+		"extra_binary_files": [
+		]
+	},
+	"documentation": [
+		/*
+		"wiki": {
+			"page": "DevDocs:pypinex_less"
+		}
+		*/
+	],
+	"repositories": [
+		{
+			"type": "github",
+			"user": "jkpubsrc",
+			"project": "........",
+			"devon_publish": false
+		},
+		{
+			"type": "pypi",
+			"project": "........",
+			"devon_publish": false
+		}
+	],
+}
+
