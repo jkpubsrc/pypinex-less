@@ -19,7 +19,8 @@ setup(
 	author = "Jürgen Knauth",
 	author_email = "pubsrc@binary-overflow.de",
 	classifiers = [
-		"Development Status :: 4 - Beta",
+		"Development Status :: 5 - Production/Stable",
+		"License :: OSI Approved :: Apache Software License",
 		"Programming Language :: Python :: 3",
 	],
 	description = "Support for 'less' files in PyPine.",
@@ -29,9 +30,11 @@ setup(
 		"pypine",
 	],
 	keywords = [
-		"...",
+		"pypine",
+		"pypinex",
+		"less",
 	],
-	license = "proprietary",
+	license = "Apache2",
 	name = "pypinex_less",
 	package_data = {
 		"": [
@@ -41,7 +44,7 @@ setup(
 	packages = [
 		"pypinex_less",
 	],
-	version = "0.2021.3.16",
+	version = "0.2021.3.17.1",
 	zip_safe = False,
 	long_description = readme(),
 	long_description_content_type="text/markdown",

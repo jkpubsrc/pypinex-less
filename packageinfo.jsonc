@@ -5,13 +5,13 @@
 	},
 	"meta": {
 		"name": "pypinex_less",
-		"version": "0.2021.3.16",
+		"version": "0.2021.3.17.1",
 		"packageClass": "python-module",
 		"language": "python3",
-		"development_status": "beta",
-		"license": "proprietary",
+		"development_status": "stable",
+		"license": "Apache2",
 		"keywords": [
-			"..."
+			"pypine", "pypinex", "less"
 		],
 		"description": "Support for 'less' files in PyPine.",
 		"authors": [
@@ -52,12 +52,12 @@
 		{
 			"type": "github",
 			"user": "jkpubsrc",
-			"project": "........",
+			"project": "pypinex-less",
 			"devon_publish": false
 		},
 		{
 			"type": "pypi",
-			"project": "........",
+			"project": "pypinex-less",
 			"devon_publish": false
 		}
 	],
