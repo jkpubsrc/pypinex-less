@@ -21,9 +21,6 @@ setup(
 	classifiers = [
 		"Development Status :: 4 - Beta",
 		"Programming Language :: Python :: 3",
-		"Framework :: PyPine",
-		"Environment :: Plugins",
-		"Topic :: Utilities",
 	],
 	description = "Support for 'less' files in PyPine.",
 	include_package_data = True,
@@ -32,7 +29,7 @@ setup(
 		"pypine",
 	],
 	keywords = [
-		"pypine", "pypinex",
+		"...",
 	],
 	license = "proprietary",
 	name = "pypinex_less",
