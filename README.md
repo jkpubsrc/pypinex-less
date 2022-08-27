@@ -8,7 +8,7 @@ This python module ...
 
 Information about this module can be found here:
 
-* [github.org](https://github.com/jkpubsrc/pypinex-less)
+* [github.com](https://github.com/jkpubsrc/pypinex-less)
 * [pypi.python.org](https://pypi.python.org/pypi/pypinex-less)
 
 Documentation
